@@ -1,4 +1,15 @@
-﻿# Hardware
+﻿<div align="center">
+<h1>Hardware</h1>
+</div>
+
+<div align="center">
+
+|Teaching Director (TD) | Teaching Assistant (TA) |
+|-------|------|
+| P' แพน | |
+| P' ฟิวส์ | |
+
+</div>
 
 สำหรับวิชานี้ก็จะพูดถึงอุปกรณ์คอมพิวเตอร์หลักๆ ทั้งหมด 6 อุปกรณ์
  1. CPU (Central Processing Unit)

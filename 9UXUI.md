@@ -1,4 +1,16 @@
-﻿# UX/UI Design
+﻿<div align="center">
+<h1>UX/UI</h1>
+</div>
+
+<div align="center">
+
+|Teaching Director (TD) | Teaching Assistant (TA) |
+|-------|------|
+| P' เมฆ | P' วิน |
+| P' ท็อป | P' ดิว |
+</div>
+
+# UX/UI Design
 
 วิชานี้เราจะมาเรียนพื้นฐานของการออกแบบ UX/UI กัน
 

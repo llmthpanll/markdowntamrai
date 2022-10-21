@@ -1,4 +1,17 @@
-﻿**Network** 
+﻿<div align="center">
+<h1>Network</h1>
+</div>
+
+<div align="center">
+
+|Teaching Director (TD) | Teaching Assistant (TA) |
+|-------|------|
+| P' ไหม | P' โอ็ต |
+| P' ปัน | P' ฟิวส์ |
+
+</div>
+
+**Network** 
 คืออุปกรณ์ 2 อย่างขึ้นไปทำการเชื่อมต่อกัน โดยสามารถติดต่อสื่อสารกันและแลกเปลี่ยนข้อมูลกันได้ เช่น โทรศัพท์ 2 เครื่อง ส่งข้อมูลหากันได้
 
 **Internet** 

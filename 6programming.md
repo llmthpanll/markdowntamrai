@@ -6,9 +6,9 @@
 
 |Teaching Director (TD) | Teaching Assistant (TA) |
 |-------|------|
-|Peeranat Matsor (P' Few) | Sila Pakdeewong (P' Sila)  |
-| | Anuwattipong Phonsumran (P' Min)  |
-| | Peerawich Pichayathadapong (P' Frank)  |
+| P' ฟิวส์ | P' ศิลา |
+| | P' มีน |
+| | P' แฟรงค์ |
 </div>
 
 

@@ -1,4 +1,18 @@
-﻿![enter image description here](https://github.com/misterfocusth/ToBeIT-67-ITF/blob/main/Images/1.png?raw=true)  
+﻿<div align="center">
+<h1>ITF</h1>
+</div>
+
+<div align="center">
+
+|Teaching Director (TD) | Teaching Assistant (TA) |
+|-------|------|
+| P' ศิลา | P' ไทร์ |
+| P' ไหม | P' เนส  |
+
+</div>
+
+
+![enter image description here](https://github.com/misterfocusth/ToBeIT-67-ITF/blob/main/Images/1.png?raw=true)  
 
 ## เกี่ยวกับวิชา ITF น้องๆ ได้เรียนอะไรกันไปบ้าง ?
 
