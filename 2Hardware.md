@@ -6,8 +6,8 @@
 
 |Teaching Director (TD) | Teaching Assistant (TA) |
 |-------|------|
-| P' แพน | |
-| P' ฟิวส์ | |
+| P' ฟิวส์ | P' แพน|
+
 
 </div>
 
